@@ -14,15 +14,15 @@ let handler = async (m, { conn }) => {
         
 1. Grup / 30 Hari
 Rp. 15.000 Dana
-Rp. 15.000 Pulsa
+
 
 2. Premium / 30 Hari
 Rp. 10.000 Dana
-Rp. 10.000 Pulsa
+
 
 3. Premium + Grup / 30 Hari
 Rp. 20.000 Dana
-Rp. 20.000 Pulsa
+
 
 wa.me/${owner[0]}
 *Bukan Bot!!!*
@@ -36,7 +36,7 @@ wa.me/${owner[0]}
   products:[{productId:'7487741964584083'}]}],
   headerImage: { productId: '7487741964584083',
   jpegThumbnail: baper },
-  businessOwnerJid: `6289654360447@s.whatsapp.net`
+  businessOwnerJid: `6287854602194@s.whatsapp.net`
   },
   footerText: 'https://aiinne.github.io',
   }},{})
